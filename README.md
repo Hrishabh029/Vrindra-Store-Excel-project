@@ -1,6 +1,7 @@
 # Vrindra-Store-Excel-project
 
 -----------Problem Statement----------
+
 Compare the sales and orders using a single chart.
 
 Which month got the highest sales and orders?
